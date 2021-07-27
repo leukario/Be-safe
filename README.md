@@ -1,6 +1,10 @@
-# flutter_application_1
+# Be Safe
 
-A new Flutter project.
+A new Flutter project to women safety and others too.
+
+# To-add
+
+A gesture which overlay on android platform and on tapping the screen 4 to 5 times the function of this app will work accordingly.
 
 ## Getting Started
 
